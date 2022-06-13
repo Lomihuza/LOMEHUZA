@@ -1,4 +1,3 @@
-# LOMEHUZA
 <!DOCTYPE html>
 <html>
 <head>
@@ -7,7 +6,7 @@
 	<link rel="stylesheet" href="style.css"> 
 </head>
 <body>
-
+# LOMEHUZA
 <div class="content">
 	<div class="header">
 		<a href="#">Обо мне</a>
