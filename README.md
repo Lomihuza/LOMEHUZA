@@ -4,9 +4,10 @@
 	<meta charset="utf-8">
 	<title>LOMEHUZA</title>
 	<link rel="stylesheet" href="style.css"> 
+# LOMEHUZA
 </head>
 <body>
-# LOMEHUZA
+
 <div class="content">
 	<div class="header">
 		<a href="#">Обо мне</a>
